@@ -35,7 +35,7 @@ inputs:
   location:
     type: string
     description: Your Azure Region.
-    default: WestEurope
+    default: eastus2
   image:
     description: |
       Image to use.

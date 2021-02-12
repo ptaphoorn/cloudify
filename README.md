@@ -1,11 +1,11 @@
 # requirements:
 
 1. todo: environments must be scalable, howto update deployment ?
-2. environment is linked to requester in deployment name and resource group name.
-3. copy local blueprint are available in git repo as .yaml files
-4. todo: multiple vms
-5. todo: hostnames, normal user name
-6. location defaults to WestEurope in yaml
+2. todo: Or deploy more than one vm with only one with a public IP.
+3. environment is linked to requester in deployment name and resource group name.
+4. copy local blueprint are available in git repo as .yaml files
+6. todo: hostnames, normal user name
+7. location defaults to WestEurope in yaml
 
 
 

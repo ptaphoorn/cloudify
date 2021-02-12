@@ -35,14 +35,14 @@ inputs:
   location:
     type: string
     description: Your Azure Region.
-    default: eastus2
+    default: WestEurope
   image:
     description: |
       Image to use.
     default:
       publisher: OpenLogic
       offer: CentOS
-      sku: 7.6
+      sku: 7.9
       version: latest
   size:
     description: |

@@ -1,0 +1,5 @@
+~ setup Azure
+
+~ setup Cloudify
+
+
